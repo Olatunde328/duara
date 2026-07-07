@@ -4,7 +4,7 @@
 Duara brings the trust of traditional rotating savings circles (chama/ajo/esusu) on-chain — no admin, no trust required, just smart contract rules.
 
 ### Try it live
-👉 **[Launch Duara](https://duara-gh850lkjy-agokejohn80.vercel.app)**
+👉 **[Launch Duara](https://duara.vercel.app)**
 
 ### What you'll need
 - A Celo-compatible wallet (MetaMask, Valora, or MiniPay)
