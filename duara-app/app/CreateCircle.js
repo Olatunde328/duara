@@ -43,7 +43,7 @@ export function CreateCircle() {
   if (!isConnected) return null;
 
   return (
-    <div className="w-full max-w-md flex flex-col gap-3 border rounded-xl p-6 mt-6 text-left">
+    <div className="w-full max-w-md flex flex-col gap-3 rounded-xl p-6 text-left text-black">
       <h2 className="text-xl font-semibold">Create a Savings Circle</h2>
 
       <label className="text-sm font-medium">
